@@ -34,8 +34,7 @@ This sample includes 1 server implementations in PHP, and Go. All servers implem
 If you do not want to use the composer, you can manually clone and configure the sample yourself:
 
 ```
-git clone https://github.com/stripe-samples/checkout-one-time-payments
-```
+git clone https://github.com/Francesco-Puttini/mesement-weather
 
 ## Author(s)
 
